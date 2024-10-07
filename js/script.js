@@ -1,4 +1,5 @@
-
+// комент от димы 1
+// комент от димы 2
 const swiper = new Swiper('.slider-materials', {
 	// Optional parameters
 	loop: true,
