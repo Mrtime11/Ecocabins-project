@@ -1,4 +1,4 @@
-
+// комент от димы
 const swiper = new Swiper('.slider-materials', {
 	// Optional parameters
 	loop: true,
