@@ -1,5 +1,5 @@
-// комент от димы 1
-// комент от димы 2
+// пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ 1
+// пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ 2
 const swiper = new Swiper('.slider-materials', {
 	// Optional parameters
 	loop: true,
@@ -9,7 +9,7 @@ const swiper = new Swiper('.slider-materials', {
 		clickable: true
 	},
 });
-
+//hello world
 
 window.addEventListener('scroll', function () {
 	scrollY > 0 ? document.querySelector('.header').classList.add('scroll') : document.querySelector('.header').classList.remove('scroll');
